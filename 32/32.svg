@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 999 1376" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_32"><path d="M32.1,1344.3V32.1H967.5V1344.3Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_32{
+fill: #FFFDEA;
+}
+.g1_32{
+fill: #BCE4EA;
+}
+.g2_32{
+fill: #BCBEC0;
+}
+.g3_32{
+fill: #00AABD;
+}
+.g4_32{
+fill: #FFF;
+}
+.g5_32{
+fill: none;
+stroke: #FFF;
+stroke-width: 1.909;
+stroke-miterlimit: 10;
+}
+.g6_32{
+fill: none;
+stroke: #000;
+stroke-width: 0.381;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_32)">
+<path d="M32.1,1344.3H1877V32.1H32.1V1344.3Z" class="g0_32"/>
+<path d="M32.1,179.3H1877V32.1H32.1V179.3Z" class="g1_32"/>
+<path d="M1877,177.2H32.1v-5.4H768.7c43.1,0,53,-37.9,115.3,-37.9h993Z" class="g2_32"/>
+<path d="M1877,183.7H32.1v-9.8H768.7c43.1,0,53,-33.6,115.3,-33.6h993Z" class="g3_32"/>
+</g>
+<path d="M319.5,324.2H486.3v86.6H319.5V324.2Zm240.4,0H726.6v86.6H559.9V324.2Z" class="g4_32"/>
+<path d="M199.4,498.6H366.1v95.3H199.4V498.6Zm240.3,0H606.4v95.3H439.7V498.6Zm240.4,0H846.8v95.3H680.1V498.6Z" class="g4_32"/>
+<path d="M319.5,666.9H486.3v95.2H319.5V666.9Zm240.4,0H726.6v95.2H559.9V666.9Z" class="g4_32"/>
+<path d="M319.5,809.5H486.3v95.2H319.5V809.5Zm240.4,0H726.6v95.2H559.9V809.5Z" class="g4_32"/>
+<path d="M439.7,1081.7H606.4V986.4H439.7v95.3Z" class="g4_32"/>
+<path d="M32.1,45.1H9.2m958.3,0h22.9M32.1,1331.3H9.2m958.3,0h22.9M45.1,32.1V9.2m0,1335.1v22.9M954.5,32.1V9.2m0,1335.1v22.9" class="g5_32"/>
+<path d="M32.1,45.1H9.2m958.3,0h22.9M32.1,1331.3H9.2m958.3,0h22.9M45.1,32.1V9.2m0,1335.1v22.9M954.5,32.1V9.2m0,1335.1v22.9" class="g6_32"/>
+<path d="M27.5,32.1H0m972.1,0h27.5M27.5,1344.3H0m972.1,0h27.5M32.1,27.5V0m0,1348.9v27.5M967.5,27.5V0m0,1348.9v27.5" class="g5_32"/>
+<path d="M27.5,32.1H0m972.1,0h27.5M27.5,1344.3H0m972.1,0h27.5M32.1,27.5V0m0,1348.9v27.5M967.5,27.5V0m0,1348.9v27.5" class="g6_32"/>
+</svg>
